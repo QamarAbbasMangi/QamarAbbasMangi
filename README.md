@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Qamar%20Abbas%20Mangi&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CS%20Student%20%7C%20SIBA%20University&descSize=18&descAlignY=55&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Qamar%20Abbas%20Mangi&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CS%20Student%20%7C%20Sukkur%20IBA%20University&descSize=18&descAlignY=55&descColor=8b949e"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80;Java+%7C+Python+%7C+Web+Dev+%7C+Machine+Learning+%F0%9F%92%A1)](https://git.io/typing-svg)
@@ -15,7 +15,7 @@
 ```yaml
 name: Qamar Abbas Mangi
 role: Computer Science Student & Aspiring Software Developer
-university: SIBA University
+university: Sukkur IBA University
 degree: BS Computer Science (4th Semester)
 location: Pakistan 🇵🇰
 email: qamarmangi93@gmail.com
@@ -35,12 +35,12 @@ currently_working_on:
 
 ### 🎯 Quick Highlights
 
-- 🎓 **BS Computer Science** student at **SIBA University**
+- 🎓 **BS Computer Science** student at **Sukkur IBA University**
 - 🗳️ Built the **SIBA Voting System** — a Java-based election system with admin controls, CMS-ID verification, and department-wise result tracking
 - 🤖 Currently exploring **Machine Learning** with Python, Jupyter, NumPy & Pandas
 - 🌐 Learning **Web Engineering** — HTML, CSS, JavaScript
 - 📋 Practiced **Agile Planning** with ZenHub, sprints, and kanban boards
-- 🤝 Open to collaborating on exciting projects
+- 📚 Enrolled in **Coursera for Campus** — taking industry courses from IBM, Google & more
 - ⚡ Fun fact: I love turning complex problems into elegant solutions
 
 <br clear="right"/>
@@ -53,10 +53,11 @@ currently_working_on:
 
 | | Details |
 |---|---|
-| 🏛️ **University** | SIBA University |
+| 🏛️ **University** | Sukkur IBA University |
 | 📚 **Degree** | BS Computer Science |
 | 📅 **Semester** | 4th Semester (Ongoing) |
-| 📍 **Location** | Pakistan 🇵🇰 |
+| 📍 **Location** | Sukkur, Sindh, Pakistan 🇵🇰 |
+| 🎓 **Coursera for Campus** | Enrolled via university partnership |
 
 </div>
 
@@ -70,8 +71,8 @@ currently_working_on:
 |:---:|---|---|---|
 | <img width="60" src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/> | **Introduction to Agile Development & Scrum** | IBM / Coursera | Agile, Scrum, ZenHub, Kanban, Sprint Planning |
 | <img width="60" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/> | **Machine Learning Foundations** | Coursera | Python, Supervised & Unsupervised Learning, Data Analysis |
-| <img width="60" src="https://img.shields.io/badge/University-4A154B?style=for-the-badge&logo=google-scholar&logoColor=white"/> | **Data Structures & Algorithms** | SIBA University | Queues, HashMaps, Custom Data Structures, Java |
-| <img width="60" src="https://img.shields.io/badge/University-4A154B?style=for-the-badge&logo=google-scholar&logoColor=white"/> | **Web Engineering** | SIBA University | HTML5, CSS3, JavaScript, Responsive Design |
+| <img width="60" src="https://img.shields.io/badge/University-4A154B?style=for-the-badge&logo=google-scholar&logoColor=white"/> | **Data Structures & Algorithms** | Sukkur IBA University | Queues, HashMaps, Custom Data Structures, Java |
+| <img width="60" src="https://img.shields.io/badge/University-4A154B?style=for-the-badge&logo=google-scholar&logoColor=white"/> | **Web Engineering** | Sukkur IBA University | HTML5, CSS3, JavaScript, Responsive Design |
 
 </div>
 
